@@ -1,4 +1,4 @@
 VisualStudioC-CppTestFiles
 ==========================
 
-Assorted C &amp; Cpp test files are stored here
+This is basically a setup environment for testing projects.
